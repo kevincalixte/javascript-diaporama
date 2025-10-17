@@ -3,8 +3,20 @@
     margin: 0 auto;
 } 
 
-#slideshow button{
+#slideshow img{
+    height: 40vh;
+}
+
+.slide-btns {
+    display: flex;
+    justify-content: center;
+    margin-top: 1.5rem;
+    gap: 2rem;
+}
+.slide-btns button{
     background-color: black;
     color: white;
     padding: .5rem 2rem;
+    border-radius: 2rem;
+    
 }
