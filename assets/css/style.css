@@ -1,0 +1,10 @@
+#slideshow {
+    max-width: 50%;
+    margin: 0 auto;
+} 
+
+#slideshow button{
+    background-color: black;
+    color: white;
+    padding: .5rem 2rem;
+}
